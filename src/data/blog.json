@@ -1,0 +1,34 @@
+{    
+   "data": [
+        {
+            "postId" : "1",
+            "stat" : "Fitness mantra of life & some other things",
+            "posted" : "16th Dec 2018",
+             "imgLink": "1.png"
+        },
+        {
+            "postId" : "2",
+            "stat" : "Beautiful & special moment",
+            "posted" : "26th Sep 2014",
+            "imgLink": "2.png"
+        },
+        {
+            "postId" : "3",
+            "stat" : "Beauty lies within",
+            "posted" : "10th Apr 2013",
+            "imgLink": "3.png"
+        },
+        {
+            "postId" : "4",
+            "stat" : "Sliding my way to life",
+            "posted" : "06th Nov 2019",
+            "imgLink": "4.png"
+        },
+        {
+            "postId" : "5",
+            "stat" : "Memories from my last summner",
+            "posted" : "31th Jun 2016",
+            "imgLink": "5.png"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+.headerClass{
+    margin: 0 auto;
+    border : 1px solid;
+    display : flex;
+    justify-content: space-between;
+  }
+
+  .navClass{
+    margin: 10px 0;
+  }
+
+  .navClass a{
+      display: inline-block;
+      margin: 0 10px;
+      text-decoration: none;
+      font-size: 12px;
+      letter-spacing: 1.2px;
+  }
+
+  .navClass a:hover{
+    color: #5f9ea5;
+}

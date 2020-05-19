@@ -1,0 +1,9 @@
+.sideDiv{
+    width:30%;
+    background-color: cornsilk;
+    margin-left: 3%;
+}
+.aboutDiv{
+    object-fit: cover;
+    height: 300px; /* only if you want fixed height */
+}
