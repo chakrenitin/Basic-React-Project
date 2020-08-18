@@ -4,7 +4,8 @@ import Home from './container/Home';
 import Header from './components/Header';
 import {BrowserRouter as Router,Switch,Route} from 'react-router-dom';
 import contact from './components/contact';
-import Card from './components/logoCard'
+import Card from './components/logoCard';
+import logo from './logo.svg';
 function App() {
   return (
    <Router> 
